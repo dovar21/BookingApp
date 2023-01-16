@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C2B9C77-805A-415B-9AC7-AA7241B176EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booking.API", "Booking.API\Booking.API.csproj", "{B65E2942-5878-45BD-82AD-8557898D99BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booking.Domain", "Booking.Domain\Booking.Domain.csproj", "{62096763-8DBE-4151-A0F0-0B3C48845B43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booking.Infrastructure", "Booking.Infrastructure\Booking.Infrastructure.csproj", "{18DE6F6E-457C-4A7A-AF39-B58EBBDD5315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B65E2942-5878-45BD-82AD-8557898D99BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65E2942-5878-45BD-82AD-8557898D99BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65E2942-5878-45BD-82AD-8557898D99BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65E2942-5878-45BD-82AD-8557898D99BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62096763-8DBE-4151-A0F0-0B3C48845B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62096763-8DBE-4151-A0F0-0B3C48845B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62096763-8DBE-4151-A0F0-0B3C48845B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62096763-8DBE-4151-A0F0-0B3C48845B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DE6F6E-457C-4A7A-AF39-B58EBBDD5315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DE6F6E-457C-4A7A-AF39-B58EBBDD5315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DE6F6E-457C-4A7A-AF39-B58EBBDD5315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DE6F6E-457C-4A7A-AF39-B58EBBDD5315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B65E2942-5878-45BD-82AD-8557898D99BE} = {0C2B9C77-805A-415B-9AC7-AA7241B176EB}
+		{62096763-8DBE-4151-A0F0-0B3C48845B43} = {0C2B9C77-805A-415B-9AC7-AA7241B176EB}
+		{18DE6F6E-457C-4A7A-AF39-B58EBBDD5315} = {0C2B9C77-805A-415B-9AC7-AA7241B176EB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02170099-B4E1-4E59-835F-63CFBA9A54A5}
+	EndGlobalSection
+EndGlobal
