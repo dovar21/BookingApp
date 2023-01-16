@@ -1,4 +1,4 @@
 # BookingApp
 
-Run Add-Migration command
-Run Update-Database command
+1.Run Add-Migration command
+2.Run Update-Database command
